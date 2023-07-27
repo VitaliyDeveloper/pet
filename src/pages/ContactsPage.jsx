@@ -1,5 +1,11 @@
+import ContactsMap from 'components/ContactsMap/ContactsMap';
+
 const ContactsPage = () => {
-  return <div></div>;
+  return (
+    <div>
+      <ContactsMap />
+    </div>
+  );
 };
 
 export default ContactsPage;
