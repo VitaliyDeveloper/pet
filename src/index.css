@@ -1,4 +1,13 @@
-@import-normalize; /* bring in normalize.css styles */
+@import-normalize;
+/* bring in normalize.css styles */
+
+:root {
+  --first-color-dark: #000b29;
+  --accent-color: #d70026;
+  --second-color: #edb83d;
+  --some-white-color: #f8f5f2;
+  --bg-color: #7C98ABFF;
+}
 
 body {
   margin: 0;
